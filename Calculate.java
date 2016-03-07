@@ -5,7 +5,7 @@ public class Calculate {
 	  int first = Integer.valueOf(arg[0]);
 	  int second = Integer.valueOf(arg[1]);
 	  int proizv = first * second;
-	  System.out.println("Произведение " + proizv);
+	  System.out.println("Proizvedenie " + proizv);
 
 }
 }
